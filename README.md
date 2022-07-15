@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Levithan7
-- 👀 I’m interested in Game Development and Discord Bot Development...
-- 🌱 I’m currently learning discord.py and other python stuff...
-- 📫 How to reach me: Levithan7#5^5 (Discord)
+- 👀 I’m interested in Discord Bot Development and AI..
+- 🌱 I’m currently learning discord.py and pyTorch...
+- 📫 How to reach me: Levithan7#3125 (Discord)
 <!---- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
